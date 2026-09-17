@@ -12,7 +12,7 @@ This repository tracks a 5-part project series designed for Summer Geometry Init
   - Constructing discrete cotangent Laplacian ($L$) and lumped mass ($M$) matrices.
   - Solving implicit (backward Euler) heat diffusion for unconditionally stable surface denoising.
   - Discrete mean curvature estimation ($H$) via the Laplace-Beltrami operator validated against analytical ground truth on a sphere.
-- [ ] **Project 2: Geodesic Distance via the Heat Method**
+- [x] **Project 2: Geodesic Distance via the Heat Method**
   - Short-time heat diffusion on surface meshes ($u_t = \Delta u$).
   - Vector field extraction and normalization ($X = -\nabla u / \|\nabla u\|$).
   - Solving the Poisson equation ($L\phi = \text{div}(X)$) to retrieve all-pairs-to-source geodesic distances without graph traversal.
