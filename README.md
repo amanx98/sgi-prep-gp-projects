@@ -65,8 +65,7 @@ Computes single-source geodesic distances across triangle meshes by solving two 
 ### Results & Validation
 Validated against the analytical great-circle distance $d(p, q) = \arccos(p \cdot q)$ on a unit sphere:
 
-![Geodesic Distance Benchmark](./assets/pj2 plot.png)
-
+![Geodesic Distance Benchmark](./assets/pj2%20plot.png)
 ---
 
 ## 📦 Requirements & Environment Setup
