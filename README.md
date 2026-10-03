@@ -16,7 +16,7 @@ This repository tracks a 5-part project series designed for Summer Geometry Init
   - Short-time heat diffusion on surface meshes ($u_t = \Delta u$).
   - Vector field extraction and normalization ($X = -\nabla u / \Vert{}\nabla u\Vert{}$).
   - Solving the Poisson equation ($L\phi = \text{div}(X)$) to compute geodesic distances without path traversal.
-- [ ] **Project 3: Rigid Point Cloud Registration (ICP)**
+- [x] **Project 3: Rigid Point Cloud Registration (ICP)**
   - Point-to-point and point-to-plane Iterative Closest Point (ICP).
   - SVD-based optimal rotation and translation estimation.
 - [ ] **Project 4: Parameterization & Harmonic Maps** *(Upcoming)*
